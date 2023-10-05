@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flow negative Login</description>
+   <name>TC- Login Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8c874ea-6d1b-4b49-83a9-74d63cec1d29</testCaseGuid>
+</TestCaseEntity>

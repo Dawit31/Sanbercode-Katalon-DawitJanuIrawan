@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flow login</description>
+   <name>TC - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9551f43d-59e4-4ff7-af7d-2ac2f4411412</testCaseGuid>
+</TestCaseEntity>
